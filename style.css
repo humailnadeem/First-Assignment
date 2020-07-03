@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+td {
+  width: 5vm;
+  border: 1px solid black;
+  text-align: center;
+}
+.noborder {
+  border: none;
+}
+.mainheading {
+  text-align: center;
+  background-color: yellow;
+  padding: 15px;
+}
+.maintable {
+  width: 100%;
+}
